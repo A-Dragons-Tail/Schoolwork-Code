@@ -1,0 +1,19 @@
+h1 {  
+    color: lawngreen;
+    font-variant-caps: all-small-caps;
+    font-size: 80px;
+}
+
+h3 {  
+  color: red;
+  font-size: 36px;
+}
+
+li {  
+  color: navy;
+  font-size: 50px;
+}
+
+body {  
+    background: blueviolet;
+}
